@@ -1,0 +1,15 @@
+{
+  "name": "AI Code Review by BLEND360",
+  "description": "Automated PR reviews using OpenAI or Claude. Catches bugs, security issues, and style violations.",
+  "iconName": "code-review",
+  "categories": [
+    "Code Review",
+    "Automation"
+  ],
+  "filePatterns": [
+    "**/*.js",
+    "**/*.ts",
+    "**/*.py",
+    "**/*.java"
+  ]
+}
